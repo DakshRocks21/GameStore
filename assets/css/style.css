@@ -26,12 +26,17 @@ body {
 .main {
     max-width: 1200px;
     margin: 0 auto;
+    position: relative;
 }
 
 h1 {
-    font-size: 24px;
+    font-size: 4rem;
     font-weight: 400;
     text-align: center;
+}
+
+h2 {
+    margin-left: 20px;
 }
 
 img {
@@ -73,6 +78,10 @@ img {
     flex-direction: column;
     overflow: hidden;
     width: 300px;
+}
+
+.card:hover {
+    transform: scale(1.25);
 }
 
 .card_content {
