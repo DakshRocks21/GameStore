@@ -4,8 +4,7 @@
             <li><a href="https://www.bouncingdvdlogo.com/">Bouncing DVD Logo</a></li>
             <li><a href="http://www.shtuff.com/">Shtuff Animation</a></li>
             <li><a href="https://www.windows93.net/">Windows 93</a></li>
-            <li><a href="https://windows96.net/">Windows 93</a></l i>
-            <li><a href="https://windows96.net/">Windows 93</a></li>
+            <li><a href="https://windows96.net/">Windows 96</a></l i>
             <li><a href="https://www.badgerbadgerbadger.com/">Badger Badger Badger</a></li>
             <li><a href="http://www.clicktoremove.com/">Click to Remove</a></li>
             <li><a href="http://blue.eastsidelag.com/">Paint me Blue</a></li>
