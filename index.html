@@ -2,93 +2,34 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeDay Game</title>
     <!--CSS-->
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai+Looped">
-    <!--fontawesome-->
-    <script src="https://kit.fontawesome.com/4287028772.js" crossorigin="anonymous"></script>
-
-    <title>Daksh Thapar</title>
-
-
 </head>
 
 <body>
-
-    <!--CONTENT-->
-    <div class='hamburger'>
-        <button class="hamburger-menu" onclick="hamburger()" aria-label="Main Menu">
-            <svg width="32" height="32" viewBox="0 0 100 100">
-                <path class="line line1"
-                    d="M 20,29.000046 H 80.000231 C 80.000231,29.000046 94.498839,28.817352 94.532987,66.711331 94.543142,77.980673 90.966081,81.670246 85.259173,81.668997 79.552261,81.667751 75.000211,74.999942 75.000211,74.999942 L 25.000021,25.000058" />
-                <path class="line line2" d="M 20,50 H 80" />
-                <path class="line line3"
-                    d="M 20,70.999954 H 80.000231 C 80.000231,70.999954 94.498839,71.182648 94.532987,33.288669 94.543142,22.019327 90.966081,18.329754 85.259173,18.331003 79.552261,18.332249 75.000211,25.000058 75.000211,25.000058 L 25.000021,74.999942" />
-            </svg>
-        </button>
-    </div>
-    <div class='navbar'>
-        <!-- BRAND -->
-        <div class='navbar-items navbar-brand'>
-            <img class="navbar-brand-image" src="assets/images/profile.png">
-        </div>
-        <div class='navbar-items navbar-brand'>
-            <p class="navbar-brand-text">CodeDay Games</p>
-        </div>
-        <!-- LINKS -->
-        <div class='navbar-items navbar-links'>
-            <a class="navlink-items" href="#">Home</a>
-        </div>
-    </div>
-    <div id="hamburger-links" class="hamburger-links">
-        <a class="hamburger-items" href="#">Home</a>
-        <a class="hamburger-items" href="http://profile.dakshthapar.com/">Profile</a>
-        <a class="hamburger-items" href="https://blog.dakshthapar.com">Blog</a>
-        <a class="hamburger-items" href="http://web-apps.dakshthapar.com/">Web Apps</a>
-    </div>
-    <div class="content">
-        <h1>Game List</h1>
-        <ol>
-            <li><a href="https://smashthewalls.com/">Smash The Walls</a></li>
-            <li><a href="https://korinvr.com/bin/drivingsimulatorgm/24/">Google Maps Driving Simulator</a></li>
-            <li><a href="https://www.bouncingdvdlogo.com/">Bouncing DVD Logo</a></li>
-            <li><a href="http://www.shtuff.com/">Shtuff Animation</a></li>
-            <li><a href="https://www.windows93.net/">Windows 93</a></li>
-            <li><a href="https://windows96.net/">Windows 93</a></li>
-            <li><a href="https://windows96.net/">Windows 93</a></li>
-            <li><a href="https://www.badgerbadgerbadger.com/">Badger Badger Badger</a></li>
-            <li><a href="http://www.clicktoremove.com/">Click to Remove</a></li>
-            <li><a href="http://blue.eastsidelag.com/">Paint me Blue</a></li>
-            <li><a href="http://www.didthanoskill.me/">Are you dead?</a></li>
-            <li><a href="https://tacospin.com/">Spin the tacos</a></li>
-            <li><a href="https://www.flappy-2048.com/">Flappy 2048</a></li>
-            <li><a href="https://www.rrrgggbbb.com/">RRRRGGGGGBBBB </a></li>
-            <li><a href="https://longdogechallenge.com/">LONG DOGE CHALLENGE</a></li>
-            <li><a href="http://www.spaceis.cool/">Space is Cool</a></li>
-            <li><a href="https://www.thispersondoesnotexist.com/">Face API</a></li>
-
-            
-
-        </ol>
-
+    <div class="main">
+        <h1>CodeDay's Game Storage</h1>
+        <ul class="cards">
+            <!--Here-->
+            <li class="cards_item">
+                <a href="LINK">
+                    <div class="card">
+                        <div class="card_image"><img src=""></div>
+                        <div class="card_content">
+                            <h2 class="card_title">Card Grid Layout</h2>
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <!--TO Here-->
+        </ul>
     </div>
 
-    <script>
-        //hamburger menu
-        function hamburger() {
-            console.log("Clicked");
-            var x = document.getElementById("hamburger-links");
-            if (x.style.display === "block") {
-                x.style.display = "none";
-                console.log("hide");
-            } else {
-                x.style.display = "block";
-                console.log("show");
-            }
-        }
-    </script>
+    <h3 class="made_by">Made with ♡ by Daksh and Ravin</h3>
 </body>
 
 </html>

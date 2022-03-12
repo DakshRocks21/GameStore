@@ -1,0 +1,19 @@
+<ol>
+            <li><a href="https://smashthewalls.com/">Smash The Walls</a></li>
+            <li><a href="https://korinvr.com/bin/drivingsimulatorgm/24/">Google Maps Driving Simulator</a></li>
+            <li><a href="https://www.bouncingdvdlogo.com/">Bouncing DVD Logo</a></li>
+            <li><a href="http://www.shtuff.com/">Shtuff Animation</a></li>
+            <li><a href="https://www.windows93.net/">Windows 93</a></li>
+            <li><a href="https://windows96.net/">Windows 93</a></l i>
+            <li><a href="https://windows96.net/">Windows 93</a></li>
+            <li><a href="https://www.badgerbadgerbadger.com/">Badger Badger Badger</a></li>
+            <li><a href="http://www.clicktoremove.com/">Click to Remove</a></li>
+            <li><a href="http://blue.eastsidelag.com/">Paint me Blue</a></li>
+            <li><a href="http://www.didthanoskill.me/">Are you dead?</a></li>
+            <li><a href="https://tacospin.com/">Spin the tacos</a></li>
+            <li><a href="https://www.flappy-2048.com/">Flappy 2048</a></li>
+            <li><a href="https://www.rrrgggbbb.com/">RRRRGGGGGBBBB </a></li>
+            <li><a href="https://longdogechallenge.com/">LONG DOGE CHALLENGE</a></li>
+            <li><a href="http://www.spaceis.cool/">Space is Cool</a></li>
+            <li><a href="https://www.thispersondoesnotexist.com/">Face API</a></li>
+        </ol>
